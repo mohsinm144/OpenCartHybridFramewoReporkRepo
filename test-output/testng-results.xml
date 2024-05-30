@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-29T14:32:11 IST" name="OPen Cart Automation Suit" finished-at="2024-05-29T14:33:21 IST" duration-ms="69970">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T14:32:11 IST" name="Open Cart Tests" finished-at="2024-05-29T14:33:21 IST" duration-ms="69970">
+      <class name="com.opencartproject.qa.testcases.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:11 IST" name="setup" finished-at="2024-05-29T14:32:16 IST" duration-ms="5436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringByMandatoryFields()[pri:1, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:16 IST" name="verifyRegisteringByMandatoryFields" finished-at="2024-05-29T14:32:18 IST" duration-ms="1453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringByMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:18 IST" name="tearDown" finished-at="2024-05-29T14:32:18 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:18 IST" name="setup" finished-at="2024-05-29T14:32:22 IST" duration-ms="4376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringByEnteringAllFields()[pri:2, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:22 IST" name="verifyRegisteringByEnteringAllFields" finished-at="2024-05-29T14:32:24 IST" duration-ms="1686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringByEnteringAllFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:24 IST" name="tearDown" finished-at="2024-05-29T14:32:24 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:24 IST" name="setup" finished-at="2024-05-29T14:32:28 IST" duration-ms="3710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="veryRegisteringByEnteringInvalidEmail()[pri:3, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:28 IST" name="veryRegisteringByEnteringInvalidEmail" finished-at="2024-05-29T14:32:29 IST" duration-ms="910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veryRegisteringByEnteringInvalidEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:29 IST" name="tearDown" finished-at="2024-05-29T14:32:29 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:29 IST" name="setup" finished-at="2024-05-29T14:32:33 IST" duration-ms="4058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegisteringWithoutEnteringFields()[pri:4, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:33 IST" name="verifyRegisteringWithoutEnteringFields" finished-at="2024-05-29T14:32:34 IST" duration-ms="554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisteringWithoutEnteringFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.RegisterTest@4d5d943d]" started-at="2024-05-29T14:32:34 IST" name="tearDown" finished-at="2024-05-29T14:32:34 IST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.opencartproject.qa.testcases.RegisterTest -->
+      <class name="com.opencartproject.qa.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:34 IST" name="setup" finished-at="2024-05-29T14:32:38 IST" duration-ms="3916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWithLoginCred(java.lang.String,java.lang.String)[pri:1, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:38 IST" name="verifyWithLoginCred" data-provider="validCredentialsSupplier" finished-at="2024-05-29T14:32:39 IST" duration-ms="986" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mohsinmessi14@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithLoginCred -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:39 IST" name="tearDown" finished-at="2024-05-29T14:32:39 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:39 IST" name="setup" finished-at="2024-05-29T14:32:42 IST" duration-ms="3290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWithLoginCred(java.lang.String,java.lang.String)[pri:1, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:42 IST" name="verifyWithLoginCred" data-provider="validCredentialsSupplier" finished-at="2024-05-29T14:32:43 IST" duration-ms="911" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mohammed.mohsinm144@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithLoginCred -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:43 IST" name="tearDown" finished-at="2024-05-29T14:32:43 IST" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:43 IST" name="setup" finished-at="2024-05-29T14:32:47 IST" duration-ms="3453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWithLoginCred(java.lang.String,java.lang.String)[pri:1, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:47 IST" name="verifyWithLoginCred" data-provider="validCredentialsSupplier" finished-at="2024-05-29T14:32:48 IST" duration-ms="871" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mohdmohsinm144@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12346]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithLoginCred -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:48 IST" name="tearDown" finished-at="2024-05-29T14:32:48 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:48 IST" name="setup" finished-at="2024-05-29T14:32:52 IST" duration-ms="4599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWithInvalidCred()[pri:2, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:52 IST" name="verifyWithInvalidCred" finished-at="2024-05-29T14:32:53 IST" duration-ms="761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithInvalidCred -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:53 IST" name="tearDown" finished-at="2024-05-29T14:32:53 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:53 IST" name="setup" finished-at="2024-05-29T14:32:57 IST" duration-ms="3504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWithInvalidEmailId()[pri:3, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:57 IST" name="verifyWithInvalidEmailId" finished-at="2024-05-29T14:32:58 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithInvalidEmailId -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:58 IST" name="tearDown" finished-at="2024-05-29T14:32:58 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:32:58 IST" name="setup" finished-at="2024-05-29T14:33:02 IST" duration-ms="3928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWithValidEmailInvalidPassword()[pri:4, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:33:02 IST" name="verifyWithValidEmailInvalidPassword" finished-at="2024-05-29T14:33:03 IST" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithValidEmailInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:33:03 IST" name="tearDown" finished-at="2024-05-29T14:33:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:33:03 IST" name="setup" finished-at="2024-05-29T14:33:06 IST" duration-ms="3727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWithoutCred()[pri:5, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:33:06 IST" name="verifyWithoutCred" finished-at="2024-05-29T14:33:07 IST" duration-ms="507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithoutCred -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.LoginTest@40a4337a]" started-at="2024-05-29T14:33:07 IST" name="tearDown" finished-at="2024-05-29T14:33:07 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.opencartproject.qa.testcases.LoginTest -->
+      <class name="com.opencartproject.qa.testcases.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.SearchTest@6025e1b6]" started-at="2024-05-29T14:33:07 IST" name="setup" finished-at="2024-05-29T14:33:10 IST" duration-ms="2916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchUsingProductName()[pri:1, instance:com.opencartproject.qa.testcases.SearchTest@6025e1b6]" started-at="2024-05-29T14:33:10 IST" name="verifySearchUsingProductName" finished-at="2024-05-29T14:33:11 IST" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchUsingProductName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.SearchTest@6025e1b6]" started-at="2024-05-29T14:33:11 IST" name="tearDown" finished-at="2024-05-29T14:33:11 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.SearchTest@6025e1b6]" started-at="2024-05-29T14:33:11 IST" name="setup" finished-at="2024-05-29T14:33:16 IST" duration-ms="5163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithNonExistingProduct()[pri:2, instance:com.opencartproject.qa.testcases.SearchTest@6025e1b6]" started-at="2024-05-29T14:33:16 IST" name="verifySearchWithNonExistingProduct" finished-at="2024-05-29T14:33:16 IST" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithNonExistingProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.SearchTest@6025e1b6]" started-at="2024-05-29T14:33:16 IST" name="tearDown" finished-at="2024-05-29T14:33:17 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.opencartproject.qa.testcases.SearchTest@6025e1b6]" started-at="2024-05-29T14:33:17 IST" name="setup" finished-at="2024-05-29T14:33:20 IST" duration-ms="3674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWithEmptySearchBar()[pri:3, instance:com.opencartproject.qa.testcases.SearchTest@6025e1b6]" started-at="2024-05-29T14:33:20 IST" name="verifyWithEmptySearchBar" finished-at="2024-05-29T14:33:21 IST" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWithEmptySearchBar -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.opencartproject.qa.testcases.SearchTest@6025e1b6]" started-at="2024-05-29T14:33:21 IST" name="tearDown" finished-at="2024-05-29T14:33:21 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.opencartproject.qa.testcases.SearchTest -->
+    </test> <!-- Open Cart Tests -->
+  </suite> <!-- OPen Cart Automation Suit -->
+</testng-results>
